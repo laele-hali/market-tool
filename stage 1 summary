@@ -22,7 +22,9 @@ https://universalis.app/api/v2/data-center/Dynamis/{item_ids}
 
 Step 2: Define a Small Item List to Start With
 
-
+- going to seperate the ores and ingots into two files
+ores.txt
+ingots.txt
 
 
 Step 3: Fetch & Display Price Info
