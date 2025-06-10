@@ -2,3 +2,32 @@ Stage 1: Basic Ore and Ingot Price Fetcher (Dynamis DC)
 
 Objective:
 Create a Python script that fetches the current market prices of ores and ingots on Dynamis (including Halicarnassus), and posts a summary to Discord via a bot.
+
+
+
+
+
+Step 1: Fetch Prices from Universalis
+
+Use their API to get item prices:
+
+Endpoint:
+
+https://universalis.app/api/v2/data-center/Dynamis/{item_ids}
+
+
+
+
+
+
+Step 2: Define a Small Item List to Start With
+
+
+
+
+Step 3: Fetch & Display Price Info
+
+
+
+
+Step 4: Add Basic Discord Bot Integration
