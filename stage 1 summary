@@ -1,0 +1,4 @@
+Stage 1: Basic Ore and Ingot Price Fetcher (Dynamis DC)
+
+Objective:
+Create a Python script that fetches the current market prices of ores and ingots on Dynamis (including Halicarnassus), and posts a summary to Discord via a bot.
